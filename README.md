@@ -1,6 +1,6 @@
 # SQL_Data_Wrangling_Product_Analysis
 
-My Essay visit here 
+My Essay visit here https://medium.com/@nelly.asrizawati/2b4e25c353b3
 
 # Objectives
 
